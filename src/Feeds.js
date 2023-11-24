@@ -1,7 +1,7 @@
 import React from 'react';
 import Post from './Post'
 
-const Feeds = ({posts}) => {
+const Feeds = ({ posts }) => {
   return (
     <>
 
